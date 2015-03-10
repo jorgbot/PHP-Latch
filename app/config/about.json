@@ -1,0 +1,22 @@
+{
+  "name": {
+    "first_name" : "Jorge",
+    "last_name" : "Botello",
+    "nick" : "jorgbot"
+  },
+  "description": "Hola, me llamo Jorge Botello tengo 22 años. Soy Investigador de Seguridad , Desarrollador Frontend WebApp's y ponente en varias comunidades de informática.",
+  "mail" : "jbotelloangarita@hotmail.com",
+  "website" : "http://mrjorgebotello.pe.hu/",
+  "social_networks": {
+    "codepen" : "jorgbot",
+    "github" : "jorgbot",
+    "dribbble" : "jorgbot",
+    "instagram" : "jorgbot",
+    "twitter" : "jorgbot",
+    "facebook" : "BotelloGeorge",
+    "google+" : "JorgeBotello",
+    "medium" : "@jorgbot",
+    "tumblr" : "http://mrjorgebotello.tumblr.com/",
+    "flickr" : "jorgbot",
+  }
+}
