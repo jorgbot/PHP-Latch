@@ -1,9 +1,7 @@
 PHP-Latch
 =====
 
-Formulario de registro y login con Latch
-Repositorio original por Javier Hoddix https://github.com/Hoddix
-Se reestructuró la interfaz y se repararon errores.
+Registration form and login with Latch original repository by Javier Hoddix https://github.com/Hoddix was restructured and interface errors are repaired.
 
 ```
 Version: 1.0
